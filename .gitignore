@@ -1,0 +1,3 @@
+data/*.parquet
+.ipynb_checkpoints/
+.venv
